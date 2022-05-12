@@ -15,6 +15,8 @@ d) Definujte funkci datumNarození, která z rodného čísla vrátí datum naro
 
 e) Definujte libovolné dva objekty a ověřte funkčnost jednotlivých funkcí. Pro testovací účely nepoužívejte své rodné číslo!
 
+c) Pomocí funkce getVek vypočítejte ze zadaného rodného čísla věk.
+
 Požadavky na rodné číslo
 * číslo má 10 znaků
 * číslo je beze zbytku dělitelné 11
@@ -31,4 +33,7 @@ Příklad:
 Generátor rodných čísel: https://webdev.zaujimave.info/generator-rodneho-cisla
 
 ### 2
-Pro aplikaci vytvořte GUI
+Pro aplikaci vytvořte GUI. Uživatelé budou po zadání rodného čísla zjišťovat:
+* pohlaví
+* datum narození
+* věk
