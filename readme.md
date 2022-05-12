@@ -37,3 +37,6 @@ Pro aplikaci vytvořte GUI. Uživatelé budou po zadání rodného čísla zjiš
 * pohlaví
 * datum narození
 * věk
+
+### 3
+Každá správná aplikace musí mít dokumentaci. Připravte ji.
