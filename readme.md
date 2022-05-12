@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 17: Cvičení k testům
+## Cvičení 17: Týmové cvičení
 
 
 ### 1
@@ -29,3 +29,6 @@ Příklad:
 * 700425/9876 – jedná se o muže narozeného 25.4.1970
 
 Generátor rodných čísel: https://webdev.zaujimave.info/generator-rodneho-cisla
+
+### 2
+Pro aplikaci vytvořte GUI
