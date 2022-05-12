@@ -17,7 +17,7 @@ e) Definujte libovolné dva objekty a ověřte funkčnost jednotlivých funkcí.
 
 f) Pomocí funkce getVek vypočítejte ze zadaného rodného čísla věk.
 
-h) Součástí programu musí být funkce pro generování náhodných rodných čísel.
+g) Součástí programu musí být funkce pro generování náhodných rodných čísel.
 
 Požadavky na rodné číslo
 * číslo má 10 znaků
